@@ -38,3 +38,5 @@ Of course, I understand that I won't be as skilled in game development as I was 
 - Email: vsevolodson0@gmail.com
 
 English proficiency — at the level of reading documentation. Remote work would be fine initially, but I would prefer an office in the long run. I am ready to relocate.
+
+[Version in Russian](https://github.com/vsevolodson/resume-ru/tree/main)
