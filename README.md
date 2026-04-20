@@ -33,7 +33,7 @@ Of course, I understand that I won't be as skilled in game development as I was 
 
 **Vsevolod Son, 19 years old**
 
-- Russian phone number: +7 991 495-24-03
+- Russian phone number: +7 991 495 24-03
 - Telegram: @vsevolodson0
 - Email: vsevolodson0@gmail.com
 
